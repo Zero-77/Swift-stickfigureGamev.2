@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DA2B961D246CE22100D1AE68 /* stickfigure.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2B961C246CE22100D1AE68 /* stickfigure.swift */; };
+		DA2B961F246CE46B00D1AE68 /* stickfigureData.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2B961E246CE46B00D1AE68 /* stickfigureData.swift */; };
+		DA2B9621246CE6A300D1AE68 /* stickfigureRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2B9620246CE6A300D1AE68 /* stickfigureRow.swift */; };
+		DA2B9623246CEB4800D1AE68 /* stickfigureList1.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2B9622246CEB4800D1AE68 /* stickfigureList1.swift */; };
+		DA2B9625246D02EE00D1AE68 /* stickfigureEdit.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2B9624246D02EE00D1AE68 /* stickfigureEdit.swift */; };
+		DA2B9627246D37B600D1AE68 /* stickfigureList2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2B9626246D37B600D1AE68 /* stickfigureList2.swift */; };
+		DA2B9629246D3B0000D1AE68 /* stickfigureEdit2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2B9628246D3B0000D1AE68 /* stickfigureEdit2.swift */; };
+		DA2B962B246D3D2A00D1AE68 /* stickfigure2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2B962A246D3D2A00D1AE68 /* stickfigure2.swift */; };
+		DA2B962D246D3D4F00D1AE68 /* stickfigureData2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2B962C246D3D4F00D1AE68 /* stickfigureData2.swift */; };
+		DA2B962F246D40E600D1AE68 /* stickfigureRow2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2B962E246D40E600D1AE68 /* stickfigureRow2.swift */; };
+		DA2B9631246D4BD500D1AE68 /* stickfigureBattle.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2B9630246D4BD500D1AE68 /* stickfigureBattle.swift */; };
+		DA2B9633246D6A9500D1AE68 /* readybattle.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2B9632246D6A9500D1AE68 /* readybattle.swift */; };
+		DA3D9C52246BFB8E00CEBD24 /* howtoplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA3D9C51246BFB8E00CEBD24 /* howtoplay.swift */; };
 		DA7F1534246B01E300029D3D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7F1533246B01E300029D3D /* AppDelegate.swift */; };
 		DA7F1536246B01E300029D3D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7F1535246B01E300029D3D /* SceneDelegate.swift */; };
 		DA7F1538246B01E300029D3D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7F1537246B01E300029D3D /* ContentView.swift */; };
@@ -35,6 +48,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DA2B961C246CE22100D1AE68 /* stickfigure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stickfigure.swift; sourceTree = "<group>"; };
+		DA2B961E246CE46B00D1AE68 /* stickfigureData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stickfigureData.swift; sourceTree = "<group>"; };
+		DA2B9620246CE6A300D1AE68 /* stickfigureRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stickfigureRow.swift; sourceTree = "<group>"; };
+		DA2B9622246CEB4800D1AE68 /* stickfigureList1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stickfigureList1.swift; sourceTree = "<group>"; };
+		DA2B9624246D02EE00D1AE68 /* stickfigureEdit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stickfigureEdit.swift; sourceTree = "<group>"; };
+		DA2B9626246D37B600D1AE68 /* stickfigureList2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stickfigureList2.swift; sourceTree = "<group>"; };
+		DA2B9628246D3B0000D1AE68 /* stickfigureEdit2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stickfigureEdit2.swift; sourceTree = "<group>"; };
+		DA2B962A246D3D2A00D1AE68 /* stickfigure2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stickfigure2.swift; sourceTree = "<group>"; };
+		DA2B962C246D3D4F00D1AE68 /* stickfigureData2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stickfigureData2.swift; sourceTree = "<group>"; };
+		DA2B962E246D40E600D1AE68 /* stickfigureRow2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stickfigureRow2.swift; sourceTree = "<group>"; };
+		DA2B9630246D4BD500D1AE68 /* stickfigureBattle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stickfigureBattle.swift; sourceTree = "<group>"; };
+		DA2B9632246D6A9500D1AE68 /* readybattle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = readybattle.swift; sourceTree = "<group>"; };
+		DA3D9C51246BFB8E00CEBD24 /* howtoplay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = howtoplay.swift; sourceTree = "<group>"; };
 		DA7F1530246B01E300029D3D /* Swift-stickfigureGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-stickfigureGame.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA7F1533246B01E300029D3D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DA7F1535246B01E300029D3D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +128,19 @@
 				DA7F1533246B01E300029D3D /* AppDelegate.swift */,
 				DA7F1535246B01E300029D3D /* SceneDelegate.swift */,
 				DA7F1537246B01E300029D3D /* ContentView.swift */,
+				DA3D9C51246BFB8E00CEBD24 /* howtoplay.swift */,
+				DA2B9632246D6A9500D1AE68 /* readybattle.swift */,
+				DA2B9630246D4BD500D1AE68 /* stickfigureBattle.swift */,
+				DA2B9622246CEB4800D1AE68 /* stickfigureList1.swift */,
+				DA2B9624246D02EE00D1AE68 /* stickfigureEdit.swift */,
+				DA2B9620246CE6A300D1AE68 /* stickfigureRow.swift */,
+				DA2B961C246CE22100D1AE68 /* stickfigure.swift */,
+				DA2B961E246CE46B00D1AE68 /* stickfigureData.swift */,
+				DA2B9626246D37B600D1AE68 /* stickfigureList2.swift */,
+				DA2B9628246D3B0000D1AE68 /* stickfigureEdit2.swift */,
+				DA2B962E246D40E600D1AE68 /* stickfigureRow2.swift */,
+				DA2B962A246D3D2A00D1AE68 /* stickfigure2.swift */,
+				DA2B962C246D3D4F00D1AE68 /* stickfigureData2.swift */,
 				DA7F1539246B01E500029D3D /* Assets.xcassets */,
 				DA7F153E246B01E500029D3D /* LaunchScreen.storyboard */,
 				DA7F1541246B01E500029D3D /* Info.plist */,
@@ -267,9 +306,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA2B962F246D40E600D1AE68 /* stickfigureRow2.swift in Sources */,
+				DA2B961F246CE46B00D1AE68 /* stickfigureData.swift in Sources */,
 				DA7F1534246B01E300029D3D /* AppDelegate.swift in Sources */,
+				DA2B9625246D02EE00D1AE68 /* stickfigureEdit.swift in Sources */,
+				DA2B9627246D37B600D1AE68 /* stickfigureList2.swift in Sources */,
+				DA3D9C52246BFB8E00CEBD24 /* howtoplay.swift in Sources */,
+				DA2B961D246CE22100D1AE68 /* stickfigure.swift in Sources */,
+				DA2B9623246CEB4800D1AE68 /* stickfigureList1.swift in Sources */,
+				DA2B962B246D3D2A00D1AE68 /* stickfigure2.swift in Sources */,
+				DA2B9629246D3B0000D1AE68 /* stickfigureEdit2.swift in Sources */,
+				DA2B962D246D3D4F00D1AE68 /* stickfigureData2.swift in Sources */,
+				DA2B9631246D4BD500D1AE68 /* stickfigureBattle.swift in Sources */,
 				DA7F1536246B01E300029D3D /* SceneDelegate.swift in Sources */,
+				DA2B9633246D6A9500D1AE68 /* readybattle.swift in Sources */,
 				DA7F1538246B01E300029D3D /* ContentView.swift in Sources */,
+				DA2B9621246CE6A300D1AE68 /* stickfigureRow.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
