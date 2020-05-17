@@ -12,5 +12,6 @@ struct stickfigure2: Identifiable,Codable{
     var name: String
     var occupation: Int
     var level:Int
-   
+    var attack:Int
+    var speed:Int
 }

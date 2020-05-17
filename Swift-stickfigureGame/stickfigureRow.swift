@@ -34,7 +34,7 @@ struct stickfigureRow: View {
 
 struct stickfigureRow_Previews: PreviewProvider {
     static var previews: some View {
-        stickfigureRow(Stickfigures: stickfigure(name: "123", occupation:0,level:1))
+        stickfigureRow(Stickfigures: stickfigure(name: "123", occupation:0,level:1,attack: 1,speed:1))
     }
 }
 /*
